@@ -1,0 +1,835 @@
+#EXTM3U
+#EXTINF:-1, group-title="Movies",LiveNOW from FOX
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-foxnewsnow-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",LiveNOW from FOX Alt
+https://fox-foxnewsnow-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",CNN Headlines (Geo)
+https://amg01918-cnnus-amg01918c1-vizio-us-1813.playouts.now.amagi.tv/playlist/amg01918-cnnus-cnnheadlines-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",NBC News Now by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df97894467dfa00091c873c/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",CBSN News 24x7 by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a6b92f6e22a617379789618/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Newsmax 2
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-newsmax-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Newsmax 2 Alt
+https://newsmax-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Real America's Voice
+https://ca88f6e89f1b450b89e492bb1a909db6.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_AmericasVoice/playlist.m3u8?
+#EXTINF:-1, group-title="Movies",Real America's Voice Alt
+https://p1media-americasvoice-1-us.vizio.wurl.tv/playlist.m3u8	
+#EXTINF:-1, group-title="Movies",OAN Plus
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-oneamericanews-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",OAN Plus Alt
+https://oneamericanews-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",BBC News
+https://b638a299.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDTmV3c19ITFM/playlist.m3u8
+#EXTINF:-1, group-title="Movies",FOX Weather
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01542-foxweatherllc-weather-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",WeatherNation
+https://867201d948f94717a5224db6777289ec.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_WeatherNationTV/playlist.m3u8
+#EXTINF:-1, group-title="Movies",WeatherNation Alt
+https://weathernation-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Scripps News
+https://a413150777cd4898a39870f21c06656a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_Newsy-2/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Scripps News Alt
+https://scripps-newsy-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Cheddar
+https://2eb2684fa9c3497587d24bf19cf627cf.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_Cheddar/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Cheddar Alt
+https://cheddar-cheddar-3-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",USA Today
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00731-gannettcoinc-usatodaynews-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Reuters (Geo)
+https://amg00453-reuters-amg00453c1-vizio-us-2107.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",The Hill TV (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-thehilltv-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Bloomberg Originals
+https://9be5baa1e6a743938e02d0bc48d8bf48.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_QuickTake/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Bloomberg Originals Alt
+https://bloomberg-quicktake-3-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Yahoo Finance (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/yahoofina-yahoofinance-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Yahoo Finance Alt
+https://yahoo-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Schwab Network
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-tdameritrade-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Schwab Network Alt
+https://tdameritrade-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",CBC News
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885505/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885505
+#EXTINF:-1, group-title="Movies",Fox 5 Atlanta
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5atlantawaga-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Fox 5 Washington DC
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Fox 2 Detroit
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Fox 4 Dallas - Fort Worth
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox4dallaskdfw-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Fox 13 Tampa Bay
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Fox 2 San Francisco
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2sanfranciscoktvu-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Fox 29 Philadelphia
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Fox 35 Orlando
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox35orlandowofl-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Fox 13 Seattle
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13seattlekcpq-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Fox 11 Los Angeles
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox11losangeleskttv-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Fox 5 New York (Geo)
+https://amg00488-foxdigital-amg00488c7-vizio-us-903.playouts.now.amagi.tv/playlist/amg00488-foxdigitalfast-fox5newyorkwnyw-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Fox 32 Chicago (Geo)
+https://amg00488-foxdigital-amg00488c4-vizio-us-900.playouts.now.amagi.tv/playlist/amg00488-foxdigitalfast-fox32chicagowfld-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Fox 26 Houston (Geo)
+https://amg00488-foxdigital-amg00488c1-vizio-us-892.playouts.now.amagi.tv/playlist/amg00488-foxdigitalfast-fox26houstonkriv-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Fox 10 Phoenix (Geo)
+https://amg00488-foxdigital-amg00488c2-vizio-us-898.playouts.now.amagi.tv/playlist/amg00488-foxdigitalfast-fox10ksazphoenix-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Fox 9 Minneapolis (Geo)
+https://amg00488-foxdigital-amg00488c8-vizio-us-904.playouts.now.amagi.tv/playlist/amg00488-foxdigitalfast-fox9minneapoliskmsp-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Fox 6 Milwaukee (Geo)
+https://amg00488-foxdigital-amg00488c5-vizio-us-901.playouts.now.amagi.tv/playlist/amg00488-foxdigitalfast-fox6milwaukeewiti-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Fox 7 Austin (Geo)
+https://amg00488-foxdigital-amg00488c3-vizio-us-899.playouts.now.amagi.tv/playlist/amg00488-foxdigitalfast-fox7austinktbc-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",CBS News New York by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc48170e280c80009a861ab/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",CBS News Los Angeles by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc481cda1d430000948a1b4/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",News 12 New York
+https://cda7bae2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTmV3czEyTmV3WW9ya19ITFM/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Atlanta News First (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-atlantanewsfirst-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Arizona's Family (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-arizonasfamily-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Cleveland 19 News (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-cleveland19newsplus-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",WBTV News Charlotte (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wbtvnews-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",FOX 12 Oregon (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-kptvfox12oregon-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",KMOV4 News Missouri (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-kmovnews4stlouis-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",WSMV4 News Nashville (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wsmv4news-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",KCTV5 News Kansas City (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-kctv5news-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",WFSB Eyewitness News 3 Connecticut (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wfsbplus-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",FOX19 Now Cincinnati (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wxixfox19news-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",WSB-TV 2 Atlanta (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreaking-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",WFTV 9 Central Florida (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wftvbreakingnews-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",WPXI 11 Pittsburgh (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreakingnews-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",WSOC 9 Charlotte (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreakingnews-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",WHIO TV 7 Dayton (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreakingnews-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",CBS 47 Fox 30 Action News Jax (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreakingnews-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Boston 25 News (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wfxtbreakingnews-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",KIRO 7 Seattle (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-kirobreakingnews-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",ABC 7 Sarasota (Geo)
+https://amg00312-amg00312c1-vizio-us-2634.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-wwsbabc7yourlocalstation-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Fox Carolina WHNS (Geo)
+https://amg00312-amg00312c2-vizio-us-2633.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-whnsfoxcarolinanews-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Fox 5 KVVU Las Vegas (Geo)
+https://amg00312-amg00312c3-vizio-us-2632.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-kvvufox5vegas-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",WBRC Fox 6 News Birmingham (Geo)
+https://amg00312-amg00312c4-vizio-us-2631.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-wbrcwbrcfox6news-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",WAVE Now Louisville (Geo)
+https://amg00312-amg00312c5-vizio-us-2630.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-wavewavenow-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Fox 8 Local First New Orleans (Geo)
+https://amg00312-amg00312c6-vizio-us-2629.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-wvuefox8wvueneworleans-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Action News 5 Memphis (Geo)
+https://amg00312-amg00312c7-vizio-us-2628.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-wmcactionnews5wmc-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",12 On Your Side Richmond (Geo)
+https://amg00312-amg00312c8-vizio-us-2627.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-wwbt12onyourside-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Fox 10 News Mobile-Pensacola (Geo)
+https://amg00312-amg00312c9-vizio-us-2626.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-walafox10news-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",WVLT 8 Knoxville (Geo)
+https://amg00312-amg00312c10-vizio-us-2625.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-wvltwvltnews-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",WKYT Lexington (Geo)
+https://amg00312-amg00312c11-vizio-us-2635.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-wkytwkytnews-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",13 News KOLD Tucson (Geo)
+https://amg00312-amg00312c16-vizio-us-2639.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-koldkoldnews13-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",ABC 2 WBAY-TV Green Bay (Geo)
+https://amg00312-amg00312c13-vizio-us-2636.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-wbaywbayaction2news-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",12 News KWCH Wichita (Geo)
+https://amg00312-amg00312c14-vizio-us-2637.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-kwchkwch12news-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",WDBJ 7 Roanoke (Geo)
+https://amg00312-amg00312c15-vizio-us-2638.playouts.now.amagi.tv/playlist/amg00312-graytelevisionfast-wdbjwdbj7news-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Free Movie Network (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-fear-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Romance: Summer Rom-Coms (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-vizioromance-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",ACTION! (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-action-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",MovieSphere (Geo)
+https://amg00353-lionsgatestudios-amg00353c2-vizio-us-801.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-moviesphere-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Pluto TV Spotlight
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ba3fb9c4b078e0f37ad34e8/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Pluto TV Action
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Pluto TV Comedy
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",FilmRise Action
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885508/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885508
+#EXTINF:-1, group-title="Movies",FilmRise Free Movies
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885512/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885512
+#EXTINF:-1, group-title="Movies",Hallmark Movies & More
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885520/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885520
+#EXTINF:-1, group-title="Movies",Movie Favorites by Lifetime
+https://5ee29b66.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fSG9saWRheU1vdmllRmF2b3JpdGVzYnlMaWZldGltZV9ITFM/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Tribeca Channel (Geo)
+https://amg02507-amg02507c1-vizio-us-3176.playouts.now.amagi.tv/playlist/amg02507-giantpicturesfast-tribeca-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",HerSphere (Geo)
+https://amg00353-lionsgatestudios-amg00353c3-vizio-us-802.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-hersphere-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Spark TV Light & Love
+https://2a41c39edb1543cd889f15c01c180124.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Vizio_SparkTV/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Spark TV Light & Love Alt
+https://candlelightmedia-sparklightlove-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Dove Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-dovetv-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Circle Country
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-circle-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Circle Country Alt
+https://circle-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",OuterSphere by Lionsgate (Geo)
+https://amg00353-amg00353c17-vizio-us-2569.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-outersphere-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",FilmRise Sci-Fi
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885513/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885513
+#EXTINF:-1, group-title="Movies",Xumo Free Sci-Fi & Fantasy Movies
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885570/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885570
+#EXTINF:-1, group-title="Movies",Xumo Free Family Movies
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885569/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885569
+#EXTINF:-1, group-title="Movies",Bounce XL
+https://795aa6fa3d7a44da8ef699ae8eab9a4e.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Vizio_BounceXL/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Bounce XL Alt
+https://scripps-bouncexl-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",LOL! Network
+https://7f4538d7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTE9MTmV0d29ya19ITFM/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Ebony TV (Geo)
+https://amg00353-lionsgatestudios-amg00353c12-vizio-us-1086.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ebonytvvizio-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",BET Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca670f6593a5d78f0e85aed/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Shades of Black (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/fuseAAAAA-fusebeats-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Shades of Black (Geo) Alt
+https://fuse-beats-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Black Cinema by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/58af4c093a41ca9d4ecabe96/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",AfroLandTV
+https://api-ott.afrolandtv.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=816&partner=vizio_syndication&device_id=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&us_privacy=%7bUSPRIVACY%7d&lmt=%7bLMT%7d&lmt=%7bLMT%7d&ifa_type=%7bIFATYPE%7d&ifa_type=%7bIFATYPE%7d&app_bundle=%7bAPP_BUNDLE%7d&app_name=%7bAPP_NAME%7d&app_store_url=%7bAPP_STORE_URL%7d&app_domain=%7bDOMAIN%7d&device_height=%7bHEIGHT%7d&device_width=%7bWIDTH%7d&device_make=%7bDEVICE_MAKE%7d&vizdartoken=eyJhdWQiOiIyNDMiLCJ3ZnBjaWQiOjM5ODA4Mzc0OTN9
+#EXTINF:-1, group-title="Movies",ALLBLK Gems
+https://c2c42b57d47e452084d9a4dfcc490098.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Vizio_AllBlkGems/playlist.m3u8
+#EXTINF:-1, group-title="Movies",AllBLK Gems Alt
+https://amc-allblk-gems-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Maverick Black Cinema
+https://c769d1503f8c498292ac25d733e738cc.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_MaverickBlackCinema/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Mansa Mix
+https://d6293d99c2c045a582e615a5ea1e6775.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_MansaMix/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Scares By Shudder
+https://e9ee87fcc9f2409f998e7aa106f64672.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_ScaresbyShudder/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Scares by Shudder Alt
+https://amc-scaresbyshudder-1-us.vizio.wurl.tv/playlist.m3u8	
+#EXTINF:-1, group-title="Movies",Pluto TV Horror
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",FilmRise Horror
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885514/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885514
+#EXTINF:-1, group-title="Movies",AMC Thrillers
+https://18f2fbf906cb473e8adbe37026e7e27f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_RushByAMC/playlist.m3u8
+#EXTINF:-1, group-title="Movies",AMC Thrillers Alt
+https://amc-rushbyamc-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Pluto TV Thrillers
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5b4e69e08291147bd04a9fd7/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Screambox TV (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bloodydisgusting-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Dark Matter TV
+https://5f7fb194a4024cf6ba1e09baa4f3a9cd.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_DarkMatterTV/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Gravitas Movies
+https://4fc633af56f34486bd4d1026c7177d08.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_GravitasMovies/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Gravitas Movies Alt
+https://gravitas-movies-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",ION
+https://64a0a27302684f7284d88a0d532ea7d2.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Vizio_ION/playlist.m3u8
+#EXTINF:-1, group-title="Movies",ION Alt
+https://scripps-ion-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",ION Plus
+https://667253553e374143955fbd481ed518f0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_IonPlus/playlist.m3u8
+#EXTINF:-1, group-title="Movies",ION Plus Alt
+https://ion-ion-plus-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Baywatch (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00145-buzzr-bigballs-baywatch-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Star Trek by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Leverage (Geo)
+https://amg00346-vizioono-amg00346c3-vizio-us-2251.playouts.now.amagi.tv/playlist/amg00346-vizioincfast-vizioleverage-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Heartland
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885554/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885554
+#EXTINF:-1, group-title="Movies",Electric Now
+https://api-ott.electricnow.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=430&partner=vizio_syndication&device_id=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&us_privacy=%7bUSPRIVACY%7d&lmt=%7bLMT%7d&lmt=%7bLMT%7d&ifa_type=%7bIFATYPE%7d&ifa_type=%7bIFATYPE%7d&app_bundle=%7bAPP_BUNDLE%7d&app_name=%7bAPP_NAME%7d&app_store_url=%7bAPP_STORE_URL%7d&app_domain=%7bDOMAIN%7d&device_height=%7bHEIGHT%7d&device_width=%7bWIDTH%7d&device_make=%7bDEVICE_MAKE%7d&vizdartoken=eyJhdWQiOiIyNDMiLCJ3ZnBjaWQiOjQxODMwMTcxMzh9
+#EXTINF:-1, group-title="Movies",The Walking Dead Universe
+https://3544bb307ed14ee28dc1e02dfc7056be.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_TWDUniverseExperience/playlist.m3u8
+#EXTINF:-1, group-title="Movies",The Walking Dead Universe Alt
+https://amc-twdfanexperience-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Doctor Who Classic
+https://ca4b62de2f4340fbb82d814c883cd008.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_ClassicDoctorWho/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Doctor Who Classic Alt
+https://bbc-classicdrwho-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",TV Land Drama by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d40bebc5e3d2750a2239d7e/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",TV Land Sitcoms by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Are We There Yet? (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00353-lionsgatestudio-arewethereyet-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Generation Drama (Geo)
+https://amg00136-wbd-amg00136c22-vizio-us-1805.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvgenerationdrama-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Nikita (Geo)
+https://amg00136-wbd-amg00136c29-vizio-us-1806.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvnikita-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Degrassi by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5c6eeb85c05dfc257e5a50c4/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Portlandia
+https://b84386a1af744d68ab1a216c8dbb5f3b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Vizio_Portlandia/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Anger Management Channel (Geo) CHECK
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-angermgmtvizio-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",BYUtv (Geo) CHECK
+https://amg02604-byutv-amg02604c2-vizio-us-3726.playouts.now.amagi.tv/playlist/amg02604-byutvfast-byutv-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Maximum Effort Channel
+https://781e786262a643c49d09cc62e6d79a2e.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_MaximumEffort/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Investigation (Geo) Check
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-crime-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",CSI by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5efbd29e4aa26700076c0d06/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Cops by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e1f7e089f23700009d66303/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",JAIL
+https://4d382096a253412bbea5672515de1ec7.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Vizio_Jail/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Forensic Files
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885516/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885516
+#EXTINF:-1, group-title="Movies",Unsolved Mysteries
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885541/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885541
+#EXTINF:-1, group-title="Movies",TruBlu
+https://f9c10f0a78fc4951ba989f5a0446bfdc.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_TruBlu/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Chasing Criminals (Geo)
+https://amg00136-wbd-amg00136c17-vizio-us-1800.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvchasingcriminals-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Crime 360
+https://f82e592c.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQ3JpbWUzNjBfSExT/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Cold Case Files by A&E (Geo)
+https://amg00276-amg00276c3-vizio-us-4063.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-coldcasefiles-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Worlds Wildest Police Videos
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885573/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885573
+#EXTINF:-1, group-title="Movies",World's Most Evil Killers
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885565/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885565
+#EXTINF:-1, group-title="Movies",Living with Evil (Geo)
+https://amg00136-wbd-amg00136c25-vizio-us-1807.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvlivingwithevil-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Crimes Cults Killers
+https://7fc4fb3d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fS3JpbWluYWxfSExT/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Love Kills (Geo)
+https://amg00136-wbd-amg00136c21-vizio-us-1804.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvlovekills-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",ION Mystery
+https://b43519b7459943af841845300f2f4b0c.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Vizio_IONMystery/playlist.m3u8
+#EXTINF:-1, group-title="Movies",ION Mystery Alt
+https://scripps-ionmystery-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Midsomer Murders by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cbf6a868a1bce4a3d52a5e9/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Court TV
+https://5c748fed0bf9488586ec321ef5aee1c7.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Vizio_CourtTV/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Court TV Alt
+https://scripps-courttv-2-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",The FBI (Geo)
+https://amg00136-wbd-amg00136c19-vizio-us-1802.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvfbi-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",FilmRise True Crime
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885510/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885510
+#EXTINF:-1, group-title="Movies",America's Dumbest Criminals
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885553/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885553
+#EXTINF:-1, group-title="Movies",Crime ThrillHer
+https://6b9d2a66.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQ3JpbWVUaHJpbGxIZXJfSExT/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Sleuth
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-sleuthvizio-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",REELZ Famous & Infamous
+https://linear-190.frequency.stream/dist/vizio/190/hls/master/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Real Crime (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-lds-realcrime-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Vizio American Classics (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-vizioamerica-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Grit XTRA
+https://100821d23c4a42f298cd015dd8a5a066.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Vizio_GritXtra/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Grit XTRA Alt
+https://scripps-gritxtra-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",FilmRise Western
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885515/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885515
+#EXTINF:-1, group-title="Movies",Three's Company by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ef3977e5d773400077de284/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",The Three Stooges+ (Geo)
+https://amg02451-c3-amg02451c1-vizio-us-3670.playouts.now.amagi.tv/playlist/amg02451-c3entertainmentinc-thethreestooges-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Happy Days by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7794162a4559000781fc12/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Death Valley Days
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885571/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885571
+#EXTINF:-1, group-title="Movies",The Rifleman by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e825550e758c700077b0aef/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",The Carol Burnett Show
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-carol-burnett-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",The Carol Burnett Show Alt
+https://carolburnett-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Johnny Carson TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-johnnycarson-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Johnny Carson TV Alt
+https://johnnycarson-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",The Addams Family by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d81607ab737153ea3c1c80e/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",FilmRise Classic TV
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885509/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885509
+#EXTINF:-1, group-title="Movies",MST3K
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-mst3k-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",MST3K Alt
+https://mst3k-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Cowboy Way
+https://api-ott-imagicomm-ime.ottera.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=10&partner=vizio_syndication&device_id=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&lmt=%7bLMT%7d&ifa_type=%7bIFATYPE%7d&app_bundle=%7bAPP_BUNDLE%7d&app_name=%7bAPP_NAME%7d&app_store_url=%7bAPP_STORE_URL%7d&app_domain=%7bDOMAIN%7d&device_height=%7bHEIGHT%7d&device_width=%7bWIDTH%7d&device_make=%7bDEVICE_MAKE%7d&vizdartoken=eyJhdWQiOiIyNDMiLCJ3ZnBjaWQiOjQwMDkyMDIxMzR9
+#EXTINF:-1, group-title="Movies",Classic Cinema (Geo)
+https://amg00136-wbd-amg00136c18-vizio-us-1801.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvclassiccinema-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Paramount Movie Channel by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Game Show Central
+https://35f1ae41a2684ca59f9bf27b3f0c1ac8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_GameShowCentral/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Game Show Central Alt
+https://gsn-gameshowchannnel-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Deal or No Deal
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-dealornodeal-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Family Feud Classic
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00145-fremantlemedian-familyfeudvizio-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",The Price is Right - The Barker Era by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5f7791b8372da90007fd45e6/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Fear Factor by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",The Celebrity Name Game Channel (Geo)
+https://amg00353-amg00353c19-vizio-us-2708.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-celebritynamegame-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Buzzr (Geo)
+https://vizioaaaa-buzzr-ott-vizio-kq83h.amagi.tv/playlist/vizioAAAA-buzzr-ott-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Buzzr (Geo) Alt
+https://buzzr-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",The Biggest Loser
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-thebiggestloser-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Wipeout Xtra
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-wipeoutxtra-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Supermarket Sweep (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00145-buzzr-bigballs-supermarket-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Fear Factor 
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00627-banijaygroup-fearfactor-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Fear Factor Alt
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/588128d17d64bc0d0f385c34/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Deal Zone
+https://acae5ac4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fRGVhbFpvbmVfSExT/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Judge Faith
+https://linear-650.frequency.stream/dist/vizio/650/hls/master/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Divorce Court
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885507/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885507
+#EXTINF:-1, group-title="Movies",Jersey Shore by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609bfa51fbecc1000733152e/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",MTV Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Say Yes to the Dress (Geo)
+https://amg00136-wbd-amg00136c26-vizio-us-1808.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvsayyestothedress-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Matched Married Meet (Geo)
+https://amg00276-amg00276c4-vizio-us-4058.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-matchedmarriedmeet-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Dog the Bounty Hunter (Geo)
+https://amg00276-amg00276c10-vizio-us-4062.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dogthebountyhunter-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Bachelor Nation (Geo)
+https://amg00136-wbd-amg00136c28-vizio-us-1799.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvbachelornation-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Love and Hip Hop by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Dance Moms (Geo)
+https://amg00276-amg00276c9-vizio-us-4061.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-dancemoms-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Drag Race Universe
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-dragraceuniverse-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Project Runway (Geo)
+https://amg02189-spyglassmediagroup-amg02189c1-vizio-us-513.playouts.now.amagi.tv/playlist/amg02189-spyglass-projectrunway-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Operation Repo (Geo)
+https://amg02042-amg02042c26-vizio-us-4381.playouts.now.amagi.tv/playlist/amg02042-ottstudiofast-operationrepo-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",VH1 I love Reality by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d7154fa8326b6ce4ec31f2e/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Nosey
+https://6844fef9.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTm9zZXlfSExT/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Confess by Nosey
+https://bfe96ce8.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQ29uZmVzc0J5Tm9zZXlfSExT/playlist.m3u8
+#EXTINF:-1, group-title="Movies",All Reality WE tv
+https://f45f57c2f33449aea0a62951a2df39e8.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_AbsoluteReality/playlist.m3u8
+#EXTINF:-1, group-title="Movies",All Reality WE TV Alt
+https://amc-absolutereality-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Spike by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Cheaters
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885566/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885566
+#EXTINF:-1, group-title="Movies",Wild'n out by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d48678d34ceb37d3c458a55/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Tosh.O by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dae084727c8af0009fe40a4/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Four In A Bed 
+https://2519f109af73401c9c975733e49eef9a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_FourInABed/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Four in a Bed Alt
+https://all3media-four-in-a-bed-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",FailArmy
+https://482d9335.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fRmFpbEFybXlfSExT/playlist.m3u8
+#EXTINF:-1, group-title="Movies",The Pet Collective
+https://5bcb335914e34d4fbf017a3636b2a45a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_ThePetCollective-2/playlist.m3u8
+#EXTINF:-1, group-title="Movies",The Pet Collective Alt
+https://jukin-thepetcollective-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Always Funny Videos
+https://linear-12.frequency.stream/dist/vizio/12/hls/master/playlist.m3u8
+#EXTINF:-1, group-title="Movies",LOL! Stand-Up
+https://f8a27869.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTE9MU3RhbmRVcF9ITFM/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Funny A.F by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Comedy Dynamics
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Just for Laughs Gags (Unlisted)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziojustforlaughsgags/CDN/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Ghost Hunters Channel (Geo)
+https://amg00353-amg00353c18-vizio-us-2661.playouts.now.amagi.tv/playlist/amg00353-lionsgatetvfast-ghosthunters-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",UnXplained Zone
+https://2fb56834.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVW5YcGxhaW5lZFpvbmVfSExT/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Alien Nation
+https://linear-888.frequency.stream/dist/vizio/888/hls/master/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Alien Nation (Geo) Alt
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-dustx-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",The Bob Ross Channel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobross-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",RetroCrush
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-retrocrush-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Haunt TV (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-haunttvus-vizio-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Paranormal Files
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885527/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885527
+#EXTINF:-1, group-title="Movies",Untold Stories of ER
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885572/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885572
+#EXTINF:-1, group-title="Movies",Danger TV
+https://1ed0e99ba25f4d04a17b3fa8090ac0a4.mediatailor.us-east-1.amazonaws.com/v1/master/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/Vizio_DangerTV/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Danger TV Alt
+https://dangertv-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Sensical Gaming (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00722-commonsensenetw-sensical8up-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Sensical Gaming (Geo) Alt
+https://sensical8up-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Love Nature (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-blueantmedia-usa-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Love Pets
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-lovepetsusa-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Dog Whisperer with Cesar Millan (Geo)
+https://amg01201-amg01201c30-vizio-us-4216.playouts.now.amagi.tv/playlist/amg01201-cinedigmentertainment-dogwhispererwithcesarmilan-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",The Jack Hanna Channel (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-litton-jackhannah-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",The Jack Hannah Channel (Geo) Alt
+https://jackhannah-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Xplore
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-xplore-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Xplore (Geo) Alt
+https://xplore-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Science Is Amazing (Geo)
+https://amg00136-wbd-amg00136c20-vizio-us-1803.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvscienceisamazing-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Real Wild
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-lds-realwild-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Real Wild Alt
+https://lds-realwild-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Space Science Now (Geo)
+https://amg00376-magellan-amg00376c13-vizio-us-1392.playouts.now.amagi.tv/playlist/amg00376-magellantv-spacesciencenowmainus-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Wired
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885550/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885550
+#EXTINF:-1, group-title="Movies",Fork & Flight (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-forkandflight-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",BBC Food
+https://d74d877d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDRm9vZF9ITFM/playlist.m3u8
+#EXTINF:-1, group-title="Movies",America's Test Kitchen (Geo)
+https://amg01420-americastestkitchen-amg01420c1-vizio-us-887.playouts.now.amagi.tv/playlist/amg01420-americastestkitchen-americastestkitchen-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Hell's Kitchen | Kitchen Nightmares
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885521/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885521
+#EXTINF:-1, group-title="Movies",The Jamie Oliver Channel (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01545-buzzfeedinc-jamieoliver-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Travel and Adventure (Geo)
+https://amg00136-wbd-amg00136c27-vizio-us-1809.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvtravelandadventure-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Tastemade
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/tastemade-tastemadevizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Tastemade Travel
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/tastemade-tastemade-travel-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",GoTraveler (Geo)
+https://amg09501-questar-amg09501c1-vizio-us-2907.playouts.now.amagi.tv/playlist/amg09501-quester-gotraveler-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Journy
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885522/hls/playlist.m3u8?withResolution=true&ads.xumo_channelId=88885522
+#EXTINF:-1, group-title="Movies",Bon Appétit (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/condenast-bonappetit-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",GustoTV
+https://100c56710aec499b9f9e71a7cc5d3940.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_GustoTV/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Spirits Network
+https://linear-611.frequency.stream/dist/vizio/611/hls/master/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Baby Shark TV
+https://6b54194cbd92493597e24bfa46ea7106.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_BabySharkTV/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Baby Shark TV Alt
+https://newidco-babysharktv-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Bob the Builder
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885557/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885557
+#EXTINF:-1, group-title="Movies",Shaun the Sheep & Friends
+https://api-ott.aardman.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=1062&partner=vizio_syndication&device_id=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&us_privacy=%7bUSPRIVACY%7d&lmt=%7bLMT%7d&lmt=%7bLMT%7d&ifa_type=%7bIFATYPE%7d&ifa_type=%7bIFATYPE%7d&app_bundle=%7bAPP_BUNDLE%7d&app_name=%7bAPP_NAME%7d&app_store_url=%7bAPP_STORE_URL%7d&app_domain=%7bDOMAIN%7d&device_height=%7bHEIGHT%7d&device_width=%7bWIDTH%7d&device_make=%7bDEVICE_MAKE%7d&vizdartoken=eyJhdWQiOiIyNDMiLCJ3ZnBjaWQiOjQyOTIzMjUwNDB9
+#EXTINF:-1, group-title="Movies",Strawberry Shortcake
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885555/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885555
+#EXTINF:-1, group-title="Movies",Teletubbies
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885556/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885556
+#EXTINF:-1, group-title="Movies",Dora TV by Pluto TV 
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fb6c84dd37df3b4290c5/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Totally Turtles by Pluto TV 
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d0c16d686454ead733d08f8/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Nick Jr. by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca6748a37b88b269472dad9/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Nick by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Kids Movie Club by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5db0ad56edc89300090d2ebb/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Forever Kids by Pluto TV 
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/56171fafada51f8004c4b40f/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Little Angels Playroom by Pluto TV
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5eb301b7395671000780d100/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Sensical Jr. (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00722-commonsensenetw-sensical2up-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Sensical Jr. (Geo) Alt
+https://sensical2up-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Kidoodle.TV
+https://a818c6af72054aa2bd96ed10389823eb.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_KidoodleTV-1/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Kidoodle.TV Alt
+https://kidoodletv-kdtv-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Super Simple Songs
+https://5350c8d38aec4989b3b9ec5d76dbe624.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_SuperSimpleSongs/playlist.m3u8?
+#EXTINF:-1, group-title="Movies",Super Simple Songs Alt
+https://janson-supersimplesongs-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Ryan and Friends (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/pocketwat-ryan-friends-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Ninja Kidz TV
+https://fb57620e844a42628b348ebce63f15c1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_NinjaKidzTV/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Ninja Kidz TV Alt
+https://playworksdigital-ninjakidztv-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",House (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00346-vizioservicesll-viziohouse-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",This Old House (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00339-thisoldhouseven-tohvizio-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Beach Day (Geo)
+https://amg00136-wbd-amg00136c37-vizio-us-2646.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvbeachdayvizio-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Home Crashers (Geo)
+https://amg00136-wbd-amg00136c36-vizio-us-2647.playouts.now.amagi.tv/playlist/amg00136-warnerbrothersdiscovery-warnerbrostvhomecrashersvizio-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Tiny House Nation
+https://42bea5f2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVGlueUhvdXNlTmF0aW9uX0hMUw/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Homeful
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01515-blueskyeenterta-homefulusa-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Home.Made.Nation
+https://3cfa9d89.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTGl2ZWx5UGxhY2VfSExT/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Tastemade Home
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tastemadehome-vizious/playlist.m3u8?
+#EXTINF:-1, group-title="Movies",Gardening with Monty Don
+https://7eee4769231948098e0ef1b01e1395aa.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Vizio_GardeningwithMontyDon/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Gardening with Monty Don Alt
+https://all3media-gardening-with-monty-don-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Architectural Digest
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885504/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885504
+#EXTINF:-1, group-title="Movies",The HomeStyle Channel
+https://9b7a40d8a4474238ba656731f82dbad0.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_TheHomestyleChannel/playlist.m3u8
+#EXTINF:-1, group-title="Movies",The Homestyle Channel Alt
+https://pitch5-thehomestylechannel-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",CraftsyTV
+https://linear-492.frequency.stream/dist/vizio/492/hls/master/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Sensical Makers (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00722-commonsensenetw-sensical5up-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Sensical Makers (Geo) alt
+https://sensical5up-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Fox Soul
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-foxsoul-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Fox Soul Alt
+https://foxsoul-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Trinity Broadcasting Network
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885537/hls/tbn-xumo.m3u8?withResolution=true&ads.xumo_channelId=88885537
+#EXTINF:-1, group-title="Movies",Revry
+https://bf36190600f5421db1a668216975d4a0.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_Revry/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Revry Alt
+https://revry-revry-2-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",REVOLT Mixtape (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00346-vizioinc-vizio-revolt-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",WMX Hip Hop (Geo)
+https://amg02031-wmx-amg02031c3-vizio-us-3342.playouts.now.amagi.tv/playlist/amg02031-wmxfast-wmxhiphop-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",WMX Pop (Geo)
+https://amg02031-wmx-amg02031c1-vizio-us-3340.playouts.now.amagi.tv/playlist/amg02031-wmxfast-wmxpop-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",GQ (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00255-condenastentert-gqvizio-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Backstage (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/fuseAAAAA-fusexl-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Mixable by Pluto TV 
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5dc0c78281eddb0009a02d5e/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Modern Marvels Presented by History
+https://afa672a3.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTW9kZXJuTWFydmVsc19ITFM/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Antiques Roadshow U.K
+https://a89c0d96e19e4bbd9540d597a9afb17f.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Vizio_AntiquesRoadshowUK/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Antiques Roadshow U.K Alt
+https://bbc-antiquesroadshowuk-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Military Heroes (Geo)
+https://amg00276-amg00276c5-vizio-us-4059.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-militaryheroes-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",True History
+https://linear-188.frequency.stream/dist/vizio/188/hls/master/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Magellan TV Now (Geo)
+https://amg00376-magellan-amg00376c1-vizio-us-1377.playouts.now.amagi.tv/playlist/amg00376-magellantv-magellantvnowmainus-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Curiosity NOW (Geo)
+https://amg00170-amg00170c1-vizio-us-3562.playouts.now.amagi.tv/playlist/amg00170-curiositystreamllcfast-curiositynow-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",History Hit (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-lds-timeline-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Combat War Channel
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885558/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885558
+#EXTINF:-1, group-title="Movies",NFL Channel
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",Team USA TV (Geo)
+https://amg01416-amg01416c4-vizio-us-4040.playouts.now.amagi.tv/playlist/amg01416-faststudios-usatvall-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Fox Sports by Pluto TV 
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",MotorTrend FAST TV
+https://295298a4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTW90b3JUcmVuZEZhc3RUVl9ITFM/playlist.m3u8
+#EXTINF:-1, group-title="Movies",BBC Top Gear
+https://amg00793-amg00793c5-vizio-us-2666.playouts.now.amagi.tv/playlist/amg00793-bbcstudios-bbctopgear8minother-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",PowerNation (Geo)
+https://amg01258-raycom-amg01258c1-vizio-us-780.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-powernation-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",MavTV Select
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00378-maverickenterta-mavtv-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",World Poker Tour
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00218-wptenterprisesi-worldpokertour-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Xtreme Outdoor Presented By History
+https://787fc879.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fU2tpbGxzQW5kVGhyaWxsc19ITFM/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Ax Men
+https://8d46229f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQXhNZW5fSExT/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Ice Road Truckers
+https://8e8fcf5b.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fSWNlUm9hZFRydWNrZXJzX0hMUw/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Duck Dynasty (Geo)
+https://amg00276-amg00276c2-vizio-us-4044.playouts.now.amagi.tv/playlist/amg00276-aetelevisionnetworksfast-duckdynasty-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Waypoint TV
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00381-waypointcommuni-waypointtv-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Monster Jam
+https://8644ef8e.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTW9uc3RlckphbV9ITFM/playlist.m3u8
+#EXTINF:-1, group-title="Movies",MLB Network by Pluto TV 
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e66968a70f34c0007d050be/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",CBS Sports HQ by Pluto TV 
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5e9f2c05172a0f0007db4786/master.m3u8?deviceType=vizio-watchfreeplus&deviceMake=vizio&deviceModel=vizio&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&vizio_app_domain=%7BAPP_DOMAIN%7D&vizio_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=vizio-watchfreeplus
+#EXTINF:-1, group-title="Movies",T2 (Geo)
+https://amg01444-tennischannel-amg01444c2-vizio-us-2327.playouts.now.amagi.tv/playlist/amg01444-tennischannelfast-tennischannelus-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",SportsGrid Live
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-sportsgrid-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Fubo Sports Network
+https://231ff43b53054eefafeaaf1a6c5dcbf8.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Vizio_FuboSportsNetwork/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Fubo Sports Network Alt
+https://fubotv-fubo-sports-network-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",ACC Digital Network (Geo)
+https://amg01258-raycom-amg01258c6-vizio-us-2847.playouts.now.amagi.tv/playlist/amg01258-raycomsportsfast-accdigitalnetworkroku-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",beIN Sports XTRA (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-bein-sports-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Golf Nation
+https://linear-612.frequency.stream/dist/vizio/612/hls/master/playlist.m3u8
+#EXTINF:-1, group-title="Movies",MSG SportsZone
+https://37ed58e7.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fTVNHU3BvcnRzWm9uZV9ITFM/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Torque
+https://c9c2f259.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fVG9ycXVlX0hMUw/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Racing America (Geo)
+https://racingamerica-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Unbeaten
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00721-inverleigh-unbeaten-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Swerve Combat
+https://linear-253.frequency.stream/dist/vizio/253/hls/master/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Women's Sports Network
+https://womensnetwork-vizio.amagi.tv/hls/amagi_hls_data_vizioAAAA-womensnetwork-vizio/CDN/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Women's Sports Network Alt
+https://womensnetwork-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Professional Fighters League
+https://c27dfe8a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fUEZMTU1BX0hMUw/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Outside tv
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/outsidetv-outsidetv-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Overtime
+https://761ea40fc4384b73a8dac2975eae2718.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Vizio_Overtime/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Overtime Alt
+https://amc-overtime-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Players TV
+https://linear-656.frequency.stream/dist/vizio/656/hls/master/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Pac 12 Insider (Unlisted)
+https://pac12-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Pac 12 Insider (Unlisted) alt
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-pac12-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",TikTok Radio
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885552/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885552
+#EXTINF:-1, group-title="Movies",Vevo Pop (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevopop-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Vevo Country (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevocountry-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Vevo Hip-Hop (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevohiphop-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Vevo R&B (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevornb-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Vevo '80s (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo80s-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Vevo '90s (Geo)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00056-vevotv-vevo90s-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Stingray Hot Country
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885533/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885533
+#EXTINF:-1, group-title="Movies",Stingray Greatest Hits
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885531/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885531
+#EXTINF:-1, group-title="Movies",Stingray Hit List
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885532/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885532
+#EXTINF:-1, group-title="Movies",Stingray Classic Rock
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885530/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885530
+#EXTINF:-1, group-title="Movies",Stingray Soul Storm
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885536/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885536
+#EXTINF:-1, group-title="Movies",Qello Concerts by Stingray
+https://d3is52sgpnlx4c.cloudfront.net/10901/88885528/hls/master.m3u8?withResolution=true&ads.xumo_channelId=88885528
+#EXTINF:-1, group-title="Movies",Nature Moments by Love Nature
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantllc-naturemomentsuhd-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Loupe Art + Music
+https://linear-144.frequency.stream/dist/vizio/144/hls/hd/playlist.m3u8
+#EXTINF:-1, group-title="Movies",ZENlife by Stingray (Geo)
+https://amg01888-amg01888c6-vizio-us-4386.playouts.now.amagi.tv/playlist/amg01888-stingraymusicusaincfast-stingrayzenlife-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Stingray Naturescape (Geo)
+https://amg01888-amg01888c5-vizio-us-3878.playouts.now.amagi.tv/playlist/amg01888-stingraymusicusaincfast-naturescape-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Estrella TV (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaA-estrellatv-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Estrella TV (Geo) Alt
+https://estrellatv-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Estrella Games (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaA-estrella-games-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Estrella News (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/estrellaA-estrellanews-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Canela.TV
+https://api-ott.canela.tv/loggingmediaurlpassthrough/a.m3u8?version=12&id=31436&partner=vizio_syndication&device_id=%7bADID%7d&us_privacy=%7bUSPRIVACY%7d&us_privacy=%7bUSPRIVACY%7d&lmt=%7bLMT%7d&lmt=%7bLMT%7d&ifa_type=%7bIFATYPE%7d&ifa_type=%7bIFATYPE%7d&app_bundle=%7bAPP_BUNDLE%7d&app_name=%7bAPP_NAME%7d&app_store_url=%7bAPP_STORE_URL%7d&app_domain=%7bDOMAIN%7d&device_height=%7bHEIGHT%7d&device_width=%7bWIDTH%7d&device_make=%7bDEVICE_MAKE%7d&vizdartoken=eyJhdWQiOiIyNDMiLCJ3ZnBjaWQiOjQyMjIxMDg0MDJ9
+#EXTINF:-1, group-title="Movies",AMC en Español
+https://4972c88f2f4c48bf9a9a5f4fd3623cbd.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Vizio_AMCenEspanol/playlist.m3u8
+#EXTINF:-1, group-title="Movies",AMC en Español Alt
+https://amc-amcespanol-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Sony One Competencias
+https://3f185555257d4a66a0595a492891136a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_SonyCanalCompetencias-1/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Sony One Competencias Alt
+https://spt-competencias-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Sony One Novelas
+https://6ce58fe936574843b9de0313cc023517.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_SonyCanalNovelas-1/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Sony One Novelas Alt
+https://spt-novelas-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Sony Canal Comedias
+https://7c4aa94aa06d4aae83725e96c7adcb98.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Vizio_SonyCanalComedias-1/playlist.m3u8
+#EXTINF:-1, group-title="Movies",Sony Canal Comedias Alt
+https://spt-comedias-1-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",beIN SPORTS XTRA en Español (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/vizioAAAA-bein-esp-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",beIN SPORTS XTRA en Español alt
+https://beinesp-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",FreeTV Drama (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-cinerealvizio-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",FreeTV Sureno (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/olympusat-cinesureno-vizio/playlist.m3u8
+#EXTINF:-1, group-title="Movies",FreeTV Estelar (Geo)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinevizio-vizious/playlist.m3u8
+#EXTINF:-1, group-title="Movies",HSN
+https://hsn-samsung-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",QVC
+https://qvc-samsung-us.vizio.wurl.tv/playlist.m3u8
+#EXTINF:-1, group-title="Movies",ShopTV (Geo)
+https://vizio.b-cdn.net/vizio-abr/index.m3u8?ads.did=%7bADID%7d&ads.us_privacy=%7bUSPRIVACY%7d&ads.lmt=%7bLMT%7d&ads.ifa_type=%7bIFATYPE%7d&vizdartoken=eyJhdWQiOiIzMzEiLCJ3ZnBjaWQiOjQwODAxMjEwMDF9
+#EXTINF:-1, group-title="Movies",Sony Pix HD
+https://pubads.g.doubleclick.net/ssai/event/8FR5Q-WfRWCkbMq_GxZ77w/master.m3u8
